@@ -1,0 +1,31 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "access_control",
+            "name": "core-administrator_role",
+            "parameters": {}
+        },
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "Alex",
+                "symbol": "ALEX",
+                "decimals": "5",
+                "supply": "50"
+            }
+        },
+        {
+            "category": "nft",
+            "name": "core-custom_nft",
+            "parameters": {
+                "template": "collectible"
+            }
+        }
+    ],
+    "blockchain": "conflux",
+    "language": "solidity",
+    "framework": "react"
+}

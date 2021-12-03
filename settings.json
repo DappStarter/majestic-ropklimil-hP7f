@@ -1,0 +1,16 @@
+{
+    "name": "Alex",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Alex",
+        "/category/asset_value_tracking/core-token/symbol": "ALEX",
+        "/category/asset_value_tracking/core-token/decimals": "5",
+        "/category/asset_value_tracking/core-token/supply": "50",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible"
+    }
+}
